@@ -1,6 +1,6 @@
 # Hyporheic FloPy — Rapid Hyporheic‐Flow Modeling Toolkit
 
-Welcome to **Hyporheic FloPy**, an end‑to‑end Python toolkit for **rapidly modeling hyporheic‑zone hydraulics in fluvial systems**.  The project bundles a comment‑preserving YAML configuration, a click‑and‑explore GUI, and ready‑to‑run Jupyter notebooks so you can go from raw spatial data to calibrated MODFLOW 6 results in minutes rather than days.
+Welcome to **Hyporheic FloPy**, a toolkit for **rapidly modeling hyporheic‑zone hydraulics in fluvial systems**.  The project bundles a comment‑preserving YAML configuration, a click‑and‑explore GUI, and ready‑to‑run Jupyter notebooks so you can go from raw spatial data to calibrated MODFLOW 6 results in minutes rather than days.
 
 > **Why model the hyporheic zone?**  Exchange between surface water and shallow groundwater drives temperature buffering, nutrient cycling, and ecological refuge in streams.  Quantifying that exchange helps engineers and scientists design more resilient, nature‑based restoration measures.
 
